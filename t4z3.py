@@ -1,0 +1,6 @@
+a = float(input("Введите целое число:\n"))
+b=round(a, 2)
+print(a)
+print(b)
+c=round(a)
+print(c)
